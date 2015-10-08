@@ -1,0 +1,49 @@
+<li data-button="Next" data-options="nub_position:top;prev_button:false;">
+            <h5><center>SETTINGS</center></h5>
+            <p>
+            <img src="images/settings.png"/><br>
+            This is the settings button. Click here if you want to add more locations, or if you made a mistake and want to erase an entry.
+            </p>
+        </li>
+        
+         <li data-button="Next" data-options="nub_position:top;prev_button:false;">
+            <h5><center>RAINFALL</center></h5>
+            <p>
+            <img src="images/rain.png"/><br>
+            Click here to record rainfall measurements.
+            </p>
+        </li>
+        
+         <li data-button="Finish" data-options="nub_position:top;prev_button:false;">
+            <h5><center>MIN TEMP</center></h5>
+            <p>
+            <img src="images/temp.png"/><br>
+            Click here to record minimum temperatures.
+            </p>
+        </li>
+        ***********************************************************************************************************************************************************************************************************************
+        
+        
+        <!DOCTYPE html">
+
+  
+
+                    <!-- Callout Panel -->
+                    
+                    <!-- /Callout Panel -->
+                    
+                      
+    <!-- /BODY -->
+    <!-- FOOTER -->
+  
+          <!-- content -->
+          
+          <!-- /content -->
+        
+    <!-- /FOOTER -->
+    <!--    font-size: 15px;
+    line-height: 1.6;
+    font-weight: normal;
+    -webkit-padding-start: 20px;
+    text-align: justify;-->
+ 

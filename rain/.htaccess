@@ -1,0 +1,4 @@
+DirectoryIndex signin.php
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !=/signin.php
+
